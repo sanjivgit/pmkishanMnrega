@@ -54,9 +54,13 @@ This Service may contain links to other sites. If you click on a third-party lin
 ### Children’s Privacy
 
 -> App content: The app must not contain any content that is inappropriate for children, such as violence, mature themes, or explicit language.
+
 -> Personal information: The app must not collect any personal information from children without parental consent.
+
 -> Privacy policy: The app must have a privacy policy that is clearly visible to users and that explains how the app collects, uses, and shares personal information.
+
 -> Parental controls: The app must have a parental control feature that allows parents to restrict access to certain content.
+
 -> Safety: The app is safe for children to use, both in terms of its content and its features.
 
 ### Changes to This Privacy Policy

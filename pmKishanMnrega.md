@@ -1,7 +1,7 @@
 Privacy Policy
 ----------------
 
-Last Updated: Jun 27, 2023
+Last Updated: July 02, 2023
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -53,7 +53,11 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 ### Children’s Privacy
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+-> App content: The app must not contain any content that is inappropriate for children, such as violence, mature themes, or explicit language.
+-> Personal information: The app must not collect any personal information from children without parental consent.
+-> Privacy policy: The app must have a privacy policy that is clearly visible to users and that explains how the app collects, uses, and shares personal information.
+-> Parental controls: The app must have a parental control feature that allows parents to restrict access to certain content.
+-> Safety: The app is safe for children to use, both in terms of its content and its features.
 
 ### Changes to This Privacy Policy
 
@@ -64,7 +68,6 @@ This policy is effective as of 2023-06-27
 Contact Us
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at sanjivkumarhzb1427@gmail.com.
-
 
 
 ### Sources of the information :
